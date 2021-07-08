@@ -1,0 +1,32 @@
+.navbar-nav{
+    font-size: 20px;
+   }
+   i{
+       font-size: 30px;
+       margin: 6px;
+   }
+   li{
+     text-decoration: none ;
+       list-style: none;
+       display: inline;
+   }
+.text{
+ text-decoration: none;
+}
+footer{
+  border-radius: 0% 20% 0% 20%;
+ background: rgb(104, 68, 163);
+}
+
+ a{
+   text-decoration: none;
+ }
+  
+  h1{
+      font-family: 'Times New Roman', Times, serif;
+  }
+  h4{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+  

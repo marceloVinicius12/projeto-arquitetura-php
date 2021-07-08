@@ -1,0 +1,20 @@
+.navbar-nav{
+ font-size: 20px;
+ 
+}
+
+i{
+    font-size: 30px;
+    margin: 6px;
+}
+li{
+    list-style: none; 
+    display: inline;
+}
+.card-header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer{
+    border-radius: 0% 20% 0% 20%;
+   background: rgb(104, 68, 163);
+}

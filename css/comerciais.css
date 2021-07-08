@@ -1,0 +1,21 @@
+.navbar-nav{
+    font-size: 20px;
+   }
+   i{
+       font-size: 30px;
+       margin: 6px;
+   }
+   li{
+       list-style: none; 
+       display: inline;
+   }
+  h1{
+      font-family: 'Times New Roman', Times, serif;
+  }
+  h4{
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    border-radius: 0% 20% 0% 20%;
+   background: rgb(104, 68, 163);
+}

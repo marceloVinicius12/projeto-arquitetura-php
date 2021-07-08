@@ -1,0 +1,28 @@
+.navbar-nav{
+    font-size: 20px;
+   }
+   i{
+       font-size: 30px;
+       margin: 6px;
+   }
+   li{
+       list-style: none; 
+       display: inline;
+   }
+   body,form {
+    background: url(img/alphaville.jpg);
+   }
+   h1{
+       font-size: 20px;
+      color: rgb(29, 85, 216);
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+   }
+   a{
+       text-decoration: none;
+       list-style: none;
+   } 
+   button a{
+    text-decoration: none;
+    list-style: none;
+   }
+  
